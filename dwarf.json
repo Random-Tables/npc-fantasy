@@ -1,0 +1,59 @@
+{
+  "male": {
+    "label": "Male Dwarf",
+    "tableSections": [
+      {
+        "name": "Name:",
+        "class": "inline-block text-bold",
+        "table": [
+          "{{utility-fantasy-names/dwarven/male:Gorin}} {{utility-fantasy-names/dwarven/surname-gen:Gorin}}"
+        ],
+        "type": "simple"
+      },
+      {
+        "name": "",
+        "table": ["{{Number#34-300:56}}"],
+        "class": "inline-block",
+        "icon": "https://portal-jumper.onrender.com/assets/cyoa-darkwood/static/logo.82f4a71a.svg",
+        "iconclass": "icon-sq-sm",
+        "type": "simple"
+      },
+      {
+        "name": "",
+        "table": [
+          "He is {{utility-npc/physical/height:tall}}, {{utility-npc/physical/build:stocky}} with bright green eyes, {{utility-npc/physical/facial-features:a crooked nose}} and {{utility-npc/physical/hair-type:wavy}} blonde hair, his facial expression is {{utility-npc/physical/demeanor:strong in character}}"
+        ],
+        "type": "simple"
+      },
+      {
+        "name": "",
+        "table": [
+          "He is {{utility-npc/personality/strengths:agreeable}}, {{utility-npc/personality/aspects:aloof}} and {{utility-npc/personality/faults:critical}}, has a job as a {{utility-npc-fantasy/roles/jobs:innkeeper}}, and spends his free time on {{utility-npc/hobby/all:painting}}",
+          "He is {{utility-npc/personality/strengths:agreeable}}, {{utility-npc/personality/aspects:aloof}} and {{utility-npc/personality/faults:critical}}, has a job as a {{utility-npc-fantasy/roles/jobs:innkeeper}}, and spends his free time on {{utility-npc-fantasy/hobby/all:gemcutting}}"
+        ],
+        "type": "simple"
+      },
+      {
+        "name": "",
+        "table": [
+          "He is motivated by {{utility-npc/motivation/motivation:fame}} and hides {{utility-npc/motivation/secret:an alchohol addiction}}"
+        ],
+        "type": "simple"
+      },
+      {
+        "name": "",
+        "table": [
+          "Has {{utility-npc/family/full:two sisters and a brother}}"
+        ],
+        "type": "simple"
+      },
+      {
+        "name": "",
+        "table": [
+          "Grew up {{utility-npc-fantasy/history/youth-dwarven-mix:in a mountain outpost}}, was for a while {{utility-npc-fantasy/roles/roles:vagabond}}, and during their younger years {{utility-npc-fantasy/history/events:was injured in battle}}"
+        ],
+        "type": "simple"
+      }
+    ]
+  }
+}

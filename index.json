@@ -1,0 +1,12 @@
+{
+  "collectionID": "npc-fantasy",
+  "collectionName": "Fantasy NPCs",
+  "version": 1,
+	"required": ["utility-fantasy-names@2", "utility-npc@4", "utility-npc-fantasy@3"],
+	"category": "NPC",
+	"isUtility": false,
+  "tags": ["people", "fantasy", "medieval"],
+  "tables": {
+    "dwarf": ["male"]
+  }
+}
