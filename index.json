@@ -1,9 +1,9 @@
 {
   "collectionID": "npc-fantasy",
   "collectionName": "Fantasy NPCs",
-  "version": 3,
+  "version": 4,
   "required": [
-    "utility-fantasy-names@2",
+    "utility-names-fantasy@3",
     "utility-npc@4",
     "utility-npc-fantasy@3",
     "utility-senses@10"
