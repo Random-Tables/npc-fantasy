@@ -7,16 +7,16 @@ const utilityNpc = require("@random-tables/utility-npc");
 const utilityNpcFantasy = require("@random-tables/utility-npc-fantasy");
 const utilitySenses = require("@random-tables/utility-senses");
 
-exports.index = {
+module.exports = {
   ...index,
   tableData: {
     dwarf,
     elf,
   },
   requirements: [
-    utilityNamesFantasy.index,
-    utilityNpc.index,
-    utilityNpcFantasy.index,
-    utilitySenses.index,
+    utilityNamesFantasy,
+    utilityNpc,
+    utilityNpcFantasy,
+    utilitySenses,
   ],
 };
