@@ -6,7 +6,7 @@
         "name": "Name:",
         "class": "inline-block text-bold",
         "table": [
-          "{{utility-fantasy-names/dwarven/male:Gorin}} {{utility-fantasy-names/dwarven/surname-gen:Gorin}}"
+          "{{utility-names-fantasy/dwarven/male:Gorin}} {{utility-names-fantasy/dwarven/surname-gen:Gorin}}"
         ],
         "type": "simple"
       },
@@ -63,7 +63,7 @@
         "name": "Name:",
         "class": "inline-block text-bold",
         "table": [
-          "{{utility-fantasy-names/dwarven/female:Gorin}} {{utility-fantasy-names/dwarven/surname-gen:Gorin}}"
+          "{{utility-names-fantasy/dwarven/female:Gorin}} {{utility-names-fantasy/dwarven/surname-gen:Gorin}}"
         ],
         "type": "simple"
       },

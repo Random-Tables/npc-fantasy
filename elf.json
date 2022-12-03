@@ -6,7 +6,7 @@
         "name": "Name:",
         "class": "inline-block text-bold",
         "table": [
-          "{{utility-fantasy-names/elven/male-middle:Aerandir}} {{utility-fantasy-names/elven/surname-gen:Aeramiel}}"
+          "{{utility-names-fantasy/elven/male-middle:Aerandir}} {{utility-names-fantasy/elven/surname-gen:Aeramiel}}"
         ],
         "type": "simple"
       },
@@ -61,7 +61,7 @@
         "name": "Name:",
         "class": "inline-block text-bold",
         "table": [
-          "{{utility-fantasy-names/elven/female-middle:Aranel}} {{utility-fantasy-names/elven/surname-gen:Aeramiel}}"
+          "{{utility-names-fantasy/elven/female-middle:Aranel}} {{utility-names-fantasy/elven/surname-gen:Aeramiel}}"
         ],
         "type": "simple"
       },
@@ -116,7 +116,7 @@
         "name": "Name:",
         "class": "inline-block text-bold",
         "table": [
-          "{{utility-fantasy-names/elven/male-high:Ancalagon}} {{utility-fantasy-names/elven/surname-gen:Aeramiel}}"
+          "{{utility-names-fantasy/elven/male-high:Ancalagon}} {{utility-names-fantasy/elven/surname-gen:Aeramiel}}"
         ],
         "type": "simple"
       },
@@ -171,7 +171,7 @@
         "name": "Name:",
         "class": "inline-block text-bold",
         "table": [
-          "{{utility-fantasy-names/elven/female-high:Amarie}} {{utility-fantasy-names/elven/surname-gen:Aeramiel}}"
+          "{{utility-names-fantasy/elven/female-high:Amarie}} {{utility-names-fantasy/elven/surname-gen:Aeramiel}}"
         ],
         "type": "simple"
       },
