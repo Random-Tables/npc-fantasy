@@ -76,15 +76,15 @@
       {
         "name": "",
         "table": [
-          "He is {{utility-npc/physical/height:tall}}, {{utility-npc/physical/build:stocky}} with {{utility-senses/body/eyes-all}} eyes, {{utility-npc/physical/facial-features:a crooked nose}} and {{utility-npc/physical/hair-type:wavy}} blonde hair, his facial expression is {{utility-npc/physical/demeanor:strong in character}}"
+          "He is {{utility-npc/physical/height:tall}}, {{utility-npc/physical/build:stocky}} with {{utility-senses/body/eyes-all}} eyes, {{utility-npc/physical/facial-features:a crooked nose}} and {{utility-npc/physical/hair-type:wavy}} blonde hair, her facial expression is {{utility-npc/physical/demeanor:strong in character}}"
         ],
         "type": "simple"
       },
       {
         "name": "",
         "table": [
-          "He is {{utility-npc/personality/strengths:agreeable}}, {{utility-npc/personality/aspects:aloof}} and {{utility-npc/personality/faults:critical}}, has a job as a {{utility-npc-fantasy/roles/job-artisan:lensmaker}}, and spends his free time on {{utility-npc/hobby/all:painting}}",
-          "He is {{utility-npc/personality/strengths:agreeable}}, {{utility-npc/personality/aspects:aloof}} and {{utility-npc/personality/faults:critical}}, has a job as a {{utility-npc-fantasy/roles/job-artisan:gardener}}, and spends his free time on {{utility-npc-fantasy/hobby/all:gemcutting}}"
+          "He is {{utility-npc/personality/strengths:agreeable}}, {{utility-npc/personality/aspects:aloof}} and {{utility-npc/personality/faults:critical}}, has a job as a {{utility-npc-fantasy/roles/job-artisan:lensmaker}}, and spends her free time on {{utility-npc/hobby/all:painting}}",
+          "He is {{utility-npc/personality/strengths:agreeable}}, {{utility-npc/personality/aspects:aloof}} and {{utility-npc/personality/faults:critical}}, has a job as a {{utility-npc-fantasy/roles/job-artisan:gardener}}, and spends her free time on {{utility-npc-fantasy/hobby/all:gemcutting}}"
         ],
         "type": "simple"
       },
@@ -186,15 +186,15 @@
       {
         "name": "",
         "table": [
-          "He is {{utility-npc/physical/height:tall}}, {{utility-npc/physical/build:stocky}} with {{utility-senses/body/eyes-all}} eyes, {{utility-npc/physical/facial-features:a crooked nose}} and {{utility-npc/physical/hair-type:wavy}} blonde hair, his facial expression is {{utility-npc/physical/demeanor:strong in character}}"
+          "He is {{utility-npc/physical/height:tall}}, {{utility-npc/physical/build:stocky}} with {{utility-senses/body/eyes-all}} eyes, {{utility-npc/physical/facial-features:a crooked nose}} and {{utility-npc/physical/hair-type:wavy}} blonde hair, her facial expression is {{utility-npc/physical/demeanor:strong in character}}"
         ],
         "type": "simple"
       },
       {
         "name": "",
         "table": [
-          "He is {{utility-npc/personality/strengths:agreeable}}, {{utility-npc/personality/aspects:aloof}} and {{utility-npc/personality/faults:critical}}, has a job as a {{utility-npc-fantasy/roles/job-artisan:lensmaker}}, and spends his free time on {{utility-npc/hobby/all:painting}}",
-          "He is {{utility-npc/personality/strengths:agreeable}}, {{utility-npc/personality/aspects:aloof}} and {{utility-npc/personality/faults:critical}}, has a job as a {{utility-npc-fantasy/roles/job-artisan:gardener}}, and spends his free time on {{utility-npc-fantasy/hobby/all:gemcutting}}"
+          "He is {{utility-npc/personality/strengths:agreeable}}, {{utility-npc/personality/aspects:aloof}} and {{utility-npc/personality/faults:critical}}, has a job as a {{utility-npc-fantasy/roles/job-artisan:lensmaker}}, and spends her free time on {{utility-npc/hobby/all:painting}}",
+          "He is {{utility-npc/personality/strengths:agreeable}}, {{utility-npc/personality/aspects:aloof}} and {{utility-npc/personality/faults:critical}}, has a job as a {{utility-npc-fantasy/roles/job-artisan:gardener}}, and spends her free time on {{utility-npc-fantasy/hobby/all:gemcutting}}"
         ],
         "type": "simple"
       },
