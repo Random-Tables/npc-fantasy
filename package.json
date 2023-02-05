@@ -1,6 +1,6 @@
 {
   "name": "@random-tables/npc-fantasy",
-  "version": "1.5.2",
+  "version": "1.6.1",
   "description": "tabes data for fantasy NPC's",
   "main": "index.js",
   "scripts": {
